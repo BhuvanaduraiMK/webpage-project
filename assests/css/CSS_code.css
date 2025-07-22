@@ -1,0 +1,647 @@
+@import url(https://fonts.googleapis.com/css?family=Be+Vietnam:100,100i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i&display=swap);
+
+body{
+    margin: 0px;
+    font-family: 'Be Vietnam';
+}
+.container{
+    width: 75%;
+    margin: 0px auto;
+    
+}
+header{
+    position: sticky;
+    z-index: 10;
+    top: 0px;
+    
+}
+#idd{
+    /* position: sticky; */
+    width: 100%;
+    float: left;
+    height: 75px;
+    background: #fff !important;
+    /* min-height: 75px; */
+    /* padding: 20px 0px 20px 0px;  */
+}
+.headd{
+    color: #000;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+/* .d-none{
+    display: none;
+} */
+.menu {
+    width: 35%;
+    float: left;
+    margin-top: 3px;
+    padding: 19px 257px 0px 34px;
+    
+}
+    
+.menu nav a{
+    color: #000;
+    padding: 0px 23px;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 110%;
+}
+
+.sec {
+    float: left;
+    width: 30%;
+    padding: 0px 0px 0px 45px;
+    margin-top: -12px;
+}
+
+.login{
+    margin-top: 16Px;
+    float: left;
+    width: 10%;
+    
+}
+#idd button{
+    font-size: 14px;
+    border: none;
+    color: #fff;
+    background: #5758e0;
+    padding: 13px 25px;
+    font-weight: 500;
+    font-family: 'Be Vietnam', sans-serif;
+    letter-spacing: 0.5px;
+    
+}
+
+#bgm .img{
+    background-image: url("../../mbr-1920x1280.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50%;
+    width: 100%;
+    float: left;
+    height: 600px;
+    position: relative;
+    
+}
+
+.overlay{
+    position: absolute;
+    background-color: #000;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    z-index: 0px;
+    opacity: 0.4;
+}
+.bod{
+    position: relative;
+}
+.head2{
+    font-size: 55px;
+    color: #fff;
+    margin-top: 143px;
+    FONT-WEIGHT: 600;
+}
+
+.bod p{
+    width: 65%;
+    line-height: 2;
+    color: white;
+    font-size: 18px;
+    opacity: 0.7;
+    margin-top: -15px;
+    margin-bottom: 57px
+}
+
+.bod a{
+    text-decoration: none;
+    color: #fff ;
+    letter-spacing: 1px;
+    float: left;
+    padding-left: 80px;
+    
+}
+.bod .line{
+    border-bottom: 1px solid #fff;
+    width: 63px;
+    position: absolute;
+    margin: 14px 0px ;
+    opacity: 0.5;
+}
+.third{
+    text-align: center;
+    font-size: 33px;
+    font-weight: bold;
+    line-height: 1.3;
+    margin-top: 100px;
+    
+}
+.parpos{
+    text-align: center;
+    /* width: 35%;     */
+    line-height: 2;   
+    margin-top: -12px;
+    font-size: larger;
+    font-weight: 400;
+    opacity: 0.5;
+
+}
+.THREE{
+    background-color: #eeeeee;
+    text-align: center;
+    width: 100%;
+    float: left;
+    padding-bottom: 80px;
+}
+.card{
+    background-color: #fff;
+    width: 30%;
+    float: left;
+    height: 300px;
+    margin: 0px 14px;
+    padding-top:60px;
+ }
+ .card:first-child{
+margin: 0px;
+ }
+
+.card .para3_0{
+    font-size: larger;
+    font-weight: 400;
+    padding-top: 20px;
+}
+
+.card .para3_1{
+    text-align: center;
+    opacity: 0.6;
+    font-size: 15px;
+    line-height: 1.8;
+    margin-bottom: 30px;
+}
+.card a{
+    text-decoration: none;
+    color: #000;
+    opacity: 0.7;
+}
+
+#fourth .img_1{
+    float: left;
+    width: 50%;
+    margin: 0px;
+    background-color: #fff;
+    background-size: cover;
+    
+}
+
+#fourth .img_2{
+    float: left;
+    width: 50%;
+    margin: 0px;
+    background-color: #fff;
+    background-size: cover;
+}
+
+#Fifth{
+    background-color: #fff;
+    width: 100%;
+    float: left;
+    padding-bottom: 80px;
+    height: 320px;
+    margin: 0px;
+}
+
+.icon{
+    background-color: #fff;
+    padding-top: 80px;
+    float: left;
+    width: 24%;
+    margin: 0px 5px;
+}
+
+.para_4{
+    font-size: 20px;
+    font-weight: 400;
+    padding-top: 20px;
+    letter-spacing: 1px;
+}
+
+.para4_0{
+    opacity: 0.7;
+    font-size: 400;
+    line-height: 1.5;
+}
+
+#sixth{
+        background-color: #eeeeee;
+        /* text-align: center; */
+        width: 100%;
+        float: left;
+        padding-bottom: 80px;
+}
+.head6{
+    font-size: 55px;
+    text-align: center;
+}
+
+#sixth .video{
+    text-align: center;
+    
+    width:100%;
+}
+
+#seventh{
+    background-color: #5758e0;
+    width: 100%;
+    height: 3500px;
+    /* float: left; */
+    margin-bottom: 250px;
+}.PrTb{
+    text-align: center;
+    font-size: 38px;
+    font-weight: 500;
+    color: #fff;
+}
+/* .Prr{
+    position: relative;
+    margin-top: 100px;
+} */
+.promo{
+    width: 75%;
+    margin: 0px auto;
+    /* box-shadow: 0px 0px 10px 0px; */
+}
+.bar{
+    background-color: #eeeeee;
+    width: 25%;
+    float: left;
+    height: 400px;
+    margin: 0px 0px;
+    padding:0px 45px;
+    
+}
+
+.barpara{
+    text-align: center;
+    margin-top: 59px;
+    font-size: x-large;
+    margin-bottom: -18px;
+}
+
+.barsup{
+    text-align: center;
+    color: #5758e0;
+    font-size: 50px;
+    margin-left: 66px;
+}
+.bar2para{
+    text-align: center;
+    font-size: 15px;
+    opacity: 0.7;
+    line-height: 2;
+}
+.bar3button {
+    padding: 25px 65px;
+    /* border: 1px solid #fff; */
+}
+
+.bar button:hover{
+    background-color: #4040ef;
+    color: #fff;
+}
+.bar3button button{
+    padding: 20px 29px;
+    border: none;
+    font-weight: 600;
+    opacity: 0.9;
+    letter-spacing: 1.3;
+}
+
+#eight .head8{
+    text-align: center;
+    font-size: 35px;
+    font-weight: 600;
+    
+}
+#eight .eigpara{
+    text-align: center;
+    margin-top: -15px ;
+    line-height: 2;
+    opacity: 0.6;
+    font-size: large;
+}
+.promo2{
+    margin: 0px auto;
+    width: 80%;
+}
+.imgbar{
+    float: left;
+    width: 21%;
+    height: 250px;
+    margin: 0px 0px 0px 35px;
+    padding:0px 0px;
+    background-color: #000;
+}
+.imgbar:first-child{
+    margin: 0px;
+    background-image: url("../../face1.jpg");
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.imgbar:nth-child(2){
+    background-image: url("../../face2.jpg");
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.imgbar:nth-child(3){
+    background-image: url("../../face3.jpg");
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.imgbar:nth-child(4){
+    background-image: url("../../face1.jpg");
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.promo3{
+    margin: 0px auto;
+    width: 80%;
+}
+
+.imgcard{
+    float: left;
+    width: 40%;
+    height: 500px;
+    margin-top: 80px;
+    background-color: #000;
+    background-image: url("../../face1.jpg");
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.ninepara{
+    float: left;
+    width: 50%;
+    margin-left: 90px;
+    margin-top: 170px;
+    margin-bottom: -5px;
+    font-size: 35px;
+    font-weight: 700;
+    line-height: 1.5;
+
+}
+
+.ninepara1{
+    float: left;
+    margin-left: 95px;
+    font-size: 18px;
+    font-weight: 500;
+    word-spacing:400px;
+}
+
+.nineline{
+    margin-bottom: -100px;
+    border-bottom: 1px solid #000;
+    opacity: 0.2;
+}
+.ninepara1 .plus{
+    font-size: 40px;
+    font-weight: 100;
+}
+
+.nineP2{
+    float: left;
+    margin-top: 80px;
+}
+
+.nineP3{
+    margin-top: 80px;
+}
+
+
+.imgcircle{
+    /* float: left; */
+    width: 8%;
+    height: 120px;
+    margin: 930px 0px 0px 700px;
+    padding:0px 0px;
+    background-color: #000;
+    border-radius: 100px;
+    background-image: url("../../face1.jpg");
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.tenspace{
+    padding-top: 0px;
+    padding-bottom: 70px;
+    background-color: #eeeeee
+}
+
+
+
+.tenpara{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 23px;
+    line-height: 2;
+}
+
+.Tenname{
+    text-align: center;
+    margin-top: 45px;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.role{
+    font-size: medium;
+    text-align: center;
+    margin-top: -14px;
+    font-weight: 600;
+    opacity: 0.3;
+}
+
+.elevenspace{
+    background-color: #000;
+    padding-top: 65px;
+    padding-bottom: 100px;
+}
+.para11{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 600;
+    color: #fff;
+    margin-top: 13px;
+    opacity: 0.9;
+}
+.para11_2{
+    text-align: center;
+    color: #fff;
+    font-size: 18px;
+    margin-top: -10px;
+    line-height: 2;
+    opacity: 0.7;
+
+}
+.form11{
+    text-align: center;
+    margin-top: 70px;
+    opacity: 0.9;
+}
+
+.form11_1{
+    padding: 18px 408px 16px 10px;
+    margin: 0px;
+    font-size: 16px;
+    font-weight: 500;
+    
+}
+
+.form11_2{
+    padding: 20px 56px 17px 56px;
+    margin-left: -5px;
+    padding-top: 21px;
+    color: #eeeeee;
+    background-color: rgba(127, 131, 131, 0.737);
+}
+.elevenicon{
+    margin: 10px;
+    float: left;
+    padding: 0px 3px;
+}
+.icon11{
+    margin: 45px auto;
+    width: 17%;
+}
+
+.thirdteen{
+    background-color: #252424;
+    padding-top: 65px;
+    padding-bottom: 450px;
+}
+
+.promo4{
+    width: 90%;
+    margin: 0px auto;
+}
+
+.head13{
+    color: #fff;
+    font-size: 38px;
+    margin-top: 35px;
+    padding-left: 9px;
+}
+.icon13{
+    float: left;
+    padding: 0px 11px 0px 11px;
+    margin-top: 50px;
+}
+
+.email13{
+    color: #fff;
+    margin-top: 163px;
+    font-size: 14px;
+    padding-left: 3px;
+    opacity: 0.5;
+}
+.right13{
+    width: 43%;
+    float: left;
+}
+
+.right13_1{
+    width: 15%;
+    float: left;
+}
+.head13_2{
+    color: #fff;
+    font-size: 23px;
+}
+.para13_3{
+    color: #fff;
+    word-spacing: 200px;
+    line-height: 2.8;
+    margin-top: -16px;
+    font-size: 14px;
+    opacity: 0.7;
+}
+
+.right13_2{
+    width: 18%;
+    float: left;
+}
+.head13_3{
+    color: #fff;
+    font-size: 23px; 
+}
+
+.para13_4{
+    color: #fff;
+    width: 60%;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 1.8;
+    margin-top: -10px;
+    opacity: 0.7;
+    margin-bottom: 25px;
+}
+
+.right13_3{
+    width: 24%;
+    float: left;
+}
+.form13_1{
+    font-size: 15px;
+    /* letter-spacing: ; */
+    padding: 21px 50px 16.5px 18px;;
+}
+
+.form13_2{
+    margin-left: -4px;
+    padding: 11px 17px 16px 16px;
+    font-size: 27px;
+    background-color: #5758e0;
+    color: #fff;
+}
+
+.para13_5{
+    color: #fff;
+    font-size: 15px;
+    line-height: 1.8;
+    margin-top: 27px;
+    opacity: 0.7;
+}
+
+@media only screen and (max-width: 600px) {
+.container{
+    width: 100%;
+}
+.card,.img_1,.img_2,.icon{
+    width: 100% !important;
+    margin-top:10px;
+}
+.menu,.login,.sec{
+    width: 100%;
+}
+.menu,.sec{
+    padding: 0px;
+}
+#idd{
+ height: 250px;   
+}
+.login,.headd{
+    text-align: center;
+}
+}

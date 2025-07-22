@@ -1,0 +1,67 @@
+.banner-div{
+    height: 600px;
+    background-color: #000;
+}
+
+
+
+.puvi1{
+    height: 400px;
+    background-color: blueviolet;
+    margin-top: 80px;
+}
+
+.puvi{
+    margin-top: 20px;
+    height: 600px;
+    background-image: url("/position/01.jpg");
+}
+.puvi2{
+    margin-top: 20px;
+    height: 600px;
+    background-image: url("/position/03.jpg");
+}
+
+.banner6{
+    background-color: #1ce611;
+    height: 600px;
+    margin-top: 25px;
+    border: none;
+}
+
+.banner6_2{
+    background-image: url("/position/mbr-1920x1280.jpg");
+    height: 430px;
+    margin-top: 100px;
+    width: 100%;}
+
+.banner7{
+    height: 400px;
+    background-color: rgba(108, 4, 255, 0.842);
+}
+
+.banner7_1{
+    background-color: blanchedalmond;
+    height: 400px;
+    margin-top: 80px;
+}
+
+.banner8{
+    /* background-image: url("/position/face1.jpg"); */
+    height: 80px;
+    margin-top: 300px;
+}
+.banner8_1{
+    /* background-image: url("/position/face1.jpg"); */
+    height: 80px;
+    margin-top: 300px;
+    background-color: #000;
+}
+.banner8_2{
+    /* background-image: url("/position/face1.jpg"); */
+    height: 80px;
+}
+.banner8_3{
+    /* background-image: url("/position/face1.jpg"); */
+    height: 80px;
+}

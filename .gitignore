@@ -1,0 +1,25 @@
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore temporary files and folders
+*.tmp
+*.bak
+*.swp
+
+# VSCode or IDE folders (if you use any)
+.vscode/
+.idea/
+
+# Node modules (if used in the future)
+node_modules/
+
+# Git backup files
+*.orig
+
+# Build output (if any in future)
+dist/
+build/
