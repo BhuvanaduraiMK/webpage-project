@@ -37,7 +37,7 @@ webpage-project/
 #git clone https://github.com/BhuvanaduraiMK/webpage-project.git
 #double-click HTML_code.html
 
-🌐 Live Demo [file:///C:/Users/bhuvi/OneDrive/Documents/Desktop/VELOZION/My_Webpage_Project/HTML_code.html]
+🌐 Live Demo file:///C:/Users/bhuvi/OneDrive/Documents/Desktop/VELOZION/My_Webpage_Project/HTML_code.html
 🔗 View Website on GitHub Pages
 
 (Link will work only after GitHub Pages is enabled in repo settings.)
